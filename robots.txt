@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sicesmal.github.io/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/app/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/assets/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/css/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/includes/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/item/sitemap.html.gz
+Sitemap: https://sicesmal.github.io/src/sitemap.html.gz
